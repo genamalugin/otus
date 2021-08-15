@@ -12,7 +12,7 @@
     "require": {
         "php": ">=7.3"
     },
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "license": "MIT",
     "autoload": {
         "psr-4" : {
