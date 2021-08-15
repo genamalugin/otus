@@ -2,6 +2,7 @@
     "name": "genamalugin/otus",
     "description": "Homework number 3",
     "type": "library",
+    "version": "1.0.1",
     "authors": [
         {
             "name": "genamalugin",
@@ -11,6 +12,7 @@
     "require": {
         "php": ">=7.3"
     },
+    "license": "MIT",
     "autoload": {
         "psr-4" : {
             "Otus\\" : "resources/Otus"
